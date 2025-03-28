@@ -31,15 +31,15 @@ interface AuthContextType {
 const defaultAuthContext: AuthContextType = {
    isAuthenticated: true, // Force authentication to true
    userInfo: {
-      companyName: "goMart",
-      clientID: "37bb493c-73d3-47ea-8675-21f66ef9b735",
-      ownerName: "Rahul",
-      ownerEmail: "rahul@abc.edu",
-      rollNo: "1",
+      companyName: "SocialApp",
+      clientID: "62d73af2-3257-4030-b451-f6e1c8c1bc33",
+      ownerName: "Ashutosh",
+      ownerEmail: "ashutoshmishra2022@vitbhopal.ac.in",
+      rollNo: "22BEY10041",
    },
-   token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXJrZXRJZCI6IkdNQVJUIiwiQ2xpZW50SUQiOiIzN2JiNDkzYy03M2QzLTQ3ZWEtODY3NS0yMWY2NmVmOWI3MzUiLCJPd25lckVtYWlsIjoicmFodWxAYWJjLmVkdSIsIk93bmVyTmFtZSI6IlJhaHVsIiwiUm9sbE5vIjoiMSIsImV4cCI6MTcxMDgzNTI2OH0.eyJNYXJrZXRJZCI6IkdNQVJUIiwiQ2xpZW50SUQiOiIzN2JiNDkzYy03M2QzLTQ3ZWEtODY3NS0yMWY2NmVmOWI3MzUifQ",
+   token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzQzMTM5MzkxLCJpYXQiOjE3NDMxMzkwOTEsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjYyZDczYWYyLTMyNTctNDAzMC1iNDUxLWY2ZTFjOGMxYmMzMyIsInN1YiI6ImFzaHV0b3NobWlzaHJhMjAyMkB2aXRiaG9wYWwuYWMuaW4ifSwiY29tcGFueU5hbWUiOiJTb2NpYWxBcHAiLCJjbGllbnRJRCI6IjYyZDczYWYyLTMyNTctNDAzMC1iNDUxLWY2ZTFjOGMxYmMzMyIsImNsaWVudFNlY3JldCI6IkdWeXZyRW1CeVFtcVNab0EiLCJvd25lck5hbWUiOiJBc2h1dG9zaCIsIm93bmVyRW1haWwiOiJhc2h1dG9zaG1pc2hyYTIwMjJAdml0YmhvcGFsLmFjLmluIiwicm9sbE5vIjoiMjJCRVkxMDA0MSJ9.5XiwrD6xOXOAREY0PFDdZEvTJHaynAcQt0wsqifpoXk",
    tokenType: "Bearer",
-   expiresIn: 1710835268,
+   expiresIn: 1743139391,
    refreshAuth: async () => {},
 };
 
