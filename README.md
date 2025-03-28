@@ -9,13 +9,12 @@ This project consists of two main components:
 1. **Backend**: A Node.js/Express API service that acts as a middleware to communicate with the social media API
 2. **Frontend**: A Next.js application that provides a beautiful and intuitive user interface
 
-## Features
 
--  User analytics and profiles
--  Post and comment analysis
--  Interactive data visualization
--  Responsive design for all devices
--  Real-time data fetching
+## Screenshots
+
+![Dashboard](Dashboard.png)
+
+![Postman Authentication](PostmanAuth.png)
 
 ## Project Structure
 
